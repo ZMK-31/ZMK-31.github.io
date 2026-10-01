@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://zmk-31.github.io/sitemap.xml
